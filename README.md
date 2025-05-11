@@ -6,14 +6,14 @@ The testing focused on critical user flows such as user registration, login, eve
 
 This project includes:
 
->> A comprehensive test plan
+🧪 A comprehensive test plan
 
->> Detailed test cases
+✅ Detailed test cases
 
->> Test execution results
+📊 Test execution results
 
->> Identified issues and improvement suggestions
+🐞 Identified issues and improvement suggestions
 
-A final analysis of the system’s quality attributes
+📈 A final analysis of the system’s quality attributes
 
 The goal was to ensure the software performs reliably under real-world scenarios while meeting business requirements for usability, security, and performance.
